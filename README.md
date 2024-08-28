@@ -14,11 +14,9 @@ Hello! I'm Aadesh Yadav, a passionate data scientist and cloud computing enthusi
 - **Data Visualization:** Tableau, Power BI, Jupyter Notebooks
 - **Machine Learning:** Natural Language Processing, Computer Vision, Deep Learning
 
-### 🌟 Featured Projects
+### 🌟 Featured Project
 
 - **[T-Cell Receptor Specificity Prediction](https://github.com/AadeshY/t-cell-receptor-prediction):** Worked with Etcembly to predict T-Cell receptor specificity using machine learning techniques.
-- **[Credit Card Fraud Detection](https://github.com/AadeshY/credit-card-fraud-detection):** Developed a machine learning model to identify and flag fraudulent transactions.
-- **[Face and Mask Recognition](https://github.com/AadeshY/face-mask-recognition):** Assisted in creating a system to detect faces with and without masks using TensorFlow and OpenCV.
 
 ### 📈 Professional Experience
 
